@@ -5,6 +5,8 @@ Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "Leap", "Leap\Leap.fsproj", "{FDA6B42B-5960-4AB4-84A5-632247180C9A}"
 EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "Bob", "Bob\Bob.fsproj", "{7D82962B-FB2B-4F64-B83C-A7214EA3384C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,5 +21,9 @@ Global
 		{FDA6B42B-5960-4AB4-84A5-632247180C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDA6B42B-5960-4AB4-84A5-632247180C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDA6B42B-5960-4AB4-84A5-632247180C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D82962B-FB2B-4F64-B83C-A7214EA3384C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D82962B-FB2B-4F64-B83C-A7214EA3384C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D82962B-FB2B-4F64-B83C-A7214EA3384C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D82962B-FB2B-4F64-B83C-A7214EA3384C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
