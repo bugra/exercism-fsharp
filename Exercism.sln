@@ -43,6 +43,12 @@ Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "RobotName", "Robot\RobotNam
 EndProject
 Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "ErrorHandling", "ErrorHandling\ErrorHandling.fsproj", "{8B4EB12F-2F60-42F7-8172-BF81CBC1F179}"
 EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "ScrabbleScore", "ScrabbleScore\ScrabbleScore.fsproj", "{D88D5A13-FA24-4137-A2FD-E638AD3FBAC8}"
+EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "Proverb", "Proverb\Proverb.fsproj", "{533FB5DA-5319-4C14-BF67-6250FBAFC367}"
+EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "ProteinTranslation", "ProteinTranslation\ProteinTranslation.fsproj", "{4D7692FA-BA9F-4407-91E5-B59A14F10717}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -133,5 +139,17 @@ Global
 		{8B4EB12F-2F60-42F7-8172-BF81CBC1F179}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B4EB12F-2F60-42F7-8172-BF81CBC1F179}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B4EB12F-2F60-42F7-8172-BF81CBC1F179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D88D5A13-FA24-4137-A2FD-E638AD3FBAC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D88D5A13-FA24-4137-A2FD-E638AD3FBAC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D88D5A13-FA24-4137-A2FD-E638AD3FBAC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D88D5A13-FA24-4137-A2FD-E638AD3FBAC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{533FB5DA-5319-4C14-BF67-6250FBAFC367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{533FB5DA-5319-4C14-BF67-6250FBAFC367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{533FB5DA-5319-4C14-BF67-6250FBAFC367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{533FB5DA-5319-4C14-BF67-6250FBAFC367}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D7692FA-BA9F-4407-91E5-B59A14F10717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D7692FA-BA9F-4407-91E5-B59A14F10717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D7692FA-BA9F-4407-91E5-B59A14F10717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D7692FA-BA9F-4407-91E5-B59A14F10717}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
