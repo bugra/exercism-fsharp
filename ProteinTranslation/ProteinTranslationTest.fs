@@ -35,7 +35,7 @@ let ``Identifies Tyrosine codons`` (codon) =
 let ``Identifies Cysteine codons`` (codon) =
     Assert.That(translate codon, Is.EqualTo(["Cysteine"]))
     
-[<TestCase("UGG")>] 
+[<TestCase("UGG")>]
 let ``Identifies Tryptophan codons`` (codon) =
     Assert.That(translate codon, Is.EqualTo(["Tryptophan"]))
 

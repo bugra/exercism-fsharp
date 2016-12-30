@@ -49,6 +49,8 @@ Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "Proverb", "Proverb\Proverb.
 EndProject
 Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "ProteinTranslation", "ProteinTranslation\ProteinTranslation.fsproj", "{4D7692FA-BA9F-4407-91E5-B59A14F10717}"
 EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "KinderGartenGarden", "KinderGartenGarden\KinderGartenGarden.fsproj", "{7B6B5DFD-12C2-4531-B85D-6A32D1860388}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -151,5 +153,9 @@ Global
 		{4D7692FA-BA9F-4407-91E5-B59A14F10717}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D7692FA-BA9F-4407-91E5-B59A14F10717}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D7692FA-BA9F-4407-91E5-B59A14F10717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B6B5DFD-12C2-4531-B85D-6A32D1860388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B6B5DFD-12C2-4531-B85D-6A32D1860388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B6B5DFD-12C2-4531-B85D-6A32D1860388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B6B5DFD-12C2-4531-B85D-6A32D1860388}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
