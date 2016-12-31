@@ -13,5 +13,5 @@ let sumOfSquares number =
 
 
 let difference number =
-    squareOfSums number - (sumOfSquares number)
+    squareOfSums number - sumOfSquares number
 
