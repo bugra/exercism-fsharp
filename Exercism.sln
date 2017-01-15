@@ -77,6 +77,10 @@ Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "TwelveDays", "TwelveDays\Tw
 EndProject
 Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "Meetup", "Meetup\Meetup.fsproj", "{61CAEEA6-BFB8-438B-80CC-DD2AA4EF4BD1}"
 EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "Anagram", "Anagram\Anagram.fsproj", "{2FED0FD8-9680-4B56-B76B-44AB49314804}"
+EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "Series", "Series\Series.fsproj", "{9249D19C-4B34-4593-9FE1-C1CE0B4E4CD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -235,5 +239,13 @@ Global
 		{61CAEEA6-BFB8-438B-80CC-DD2AA4EF4BD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61CAEEA6-BFB8-438B-80CC-DD2AA4EF4BD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61CAEEA6-BFB8-438B-80CC-DD2AA4EF4BD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FED0FD8-9680-4B56-B76B-44AB49314804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FED0FD8-9680-4B56-B76B-44AB49314804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FED0FD8-9680-4B56-B76B-44AB49314804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FED0FD8-9680-4B56-B76B-44AB49314804}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9249D19C-4B34-4593-9FE1-C1CE0B4E4CD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9249D19C-4B34-4593-9FE1-C1CE0B4E4CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9249D19C-4B34-4593-9FE1-C1CE0B4E4CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9249D19C-4B34-4593-9FE1-C1CE0B4E4CD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
