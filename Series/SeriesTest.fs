@@ -1,6 +1,5 @@
 ﻿module SeriesTest
 
-open System
 open NUnit.Framework
 open SeriesProgram
 
