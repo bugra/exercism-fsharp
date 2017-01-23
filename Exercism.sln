@@ -87,6 +87,8 @@ Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "Acronym", "Acronym\Acronym.
 EndProject
 Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "Matrix", "Matrix\Matrix.fsproj", "{5494BEFF-CE4D-48E0-93F8-1B449BD358B6}"
 EndProject
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "AllYourBase", "AllYourBase\AllYourBase.fsproj", "{0E652807-7BD1-4A25-B825-D362CD7ED448}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -265,5 +267,9 @@ Global
 		{5494BEFF-CE4D-48E0-93F8-1B449BD358B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5494BEFF-CE4D-48E0-93F8-1B449BD358B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5494BEFF-CE4D-48E0-93F8-1B449BD358B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E652807-7BD1-4A25-B825-D362CD7ED448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E652807-7BD1-4A25-B825-D362CD7ED448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E652807-7BD1-4A25-B825-D362CD7ED448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E652807-7BD1-4A25-B825-D362CD7ED448}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
